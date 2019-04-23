@@ -1,0 +1,23 @@
+readMe
+    I think my biggest successes and failures go hand in hand a tad bit. 
+In my own preference I enjoy the minimalistic aspect of my resume. 
+The way I was able to create hierarchy with bold and standard text is 
+simple enough that it works for me. Along with the color changes from titles 
+to the descriptions inside, the page becomes easier to read. Also I think 
+I used white space and type weight in a consistent manner that breaks the page 
+nicely. Where I think I might be lacking is the overall design of the resume, 
+when I look at it now it might not be eye catching enough for someone to take the time to read it. 
+I think it probably needs what could separate it from others, with that I mean more design elements
+to personalize it further. Possibly a background image of some of my related work would be nice 
+or a personalized logo for myself. I think I succeeded in creating a resume that is easy on the eye 
+and looks typographically pleasing. From here on out it would definitely be important to find a way 
+to set myself apart more. 
+    
+    For the imbedded technology that is used within along with important notes I’ll start here. 
+I liked the look of the two box across container and thought it could create some nice hierarchy
+with the most important information in the larger container. All my sections were created through
+<h> sections with description tags inside, followed by description lists. This was the best way
+to create lists with titles and distinguish through hierarchy. The box itself is responsive when the page size
+is altered, however the way it opens up seems to be a little bugged. The resume’s main focus I would say probably 
+is on the diversity of skills and specific abilities I learned through my work experience. 
+
